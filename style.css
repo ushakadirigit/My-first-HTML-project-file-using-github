@@ -6,3 +6,6 @@ button{
     background-color: aquamarine;
     border-radius: 50%;
 }
+p{
+    border: 1px solid gray;
+}
